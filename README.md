@@ -10,4 +10,4 @@ Description
 
 (iii) It also makes use of smtp to send mail to the user.
 
--It has helped Business Owners communiucate faster and cheaper with Customers.
+-It has helped Business Owners communicate faster and cheaper with Customers.
